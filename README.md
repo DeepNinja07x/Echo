@@ -12,7 +12,7 @@ It's a simple music player, much similar to any music player found in any Androi
 # Program Screenshot
 
 <br>
-<p align="center"><img src="" alt="Screenshot"></p>
+<p align="center"><img src="https://github.com/DeepNinja07x/Echo/blob/master/Echo/screenshot.png" alt="Screenshot"></p>
 
 ---
 # How to Contribute:
@@ -21,5 +21,5 @@ All contributions are welcomed. Follow these __Guidelines__:
 - Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
 - Step 3: Commit the changes.
 - Step 4: Click on Pull Request.
-- For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/DeepNinja07x/Typing-Speed-Test/blob/main/CONTRIBUTING.md) file.
+- For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/DeepNinja07x/Echo/blob/main/CONTRIBUTING.md) file.
 #### Voila..... You just made your first Pull Request.
